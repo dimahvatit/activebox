@@ -1,4 +1,4 @@
-# activebox
+# ActiveBox
 
 Plain HTML & CSS beginner project
 
